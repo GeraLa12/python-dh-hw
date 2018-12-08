@@ -15,5 +15,5 @@
 |---|--------------------|------|
 | __1__ |  Домашнее задание №1. Пингвины, срезы, массивы    |  [Ссылка](https://github.com/GeraLa12/python-dh-hw/blob/master/HW1.ipynb)  |
 | __2__ |  Домашнее задание №2. Биграммы, функции и работа с файлами    |  [Ссылка](https://github.com/GeraLa12/python-dh-hw/blob/master/HW2.ipynb)  |
-| __3__ |      |    |
+| __3__ |  Домашнее задание №3  Basic NLP & Mystem  |  [Ссылка](https://github.com/GeraLa12/python-dh-hw/blob/master/HW3.ipynb)  |
 
